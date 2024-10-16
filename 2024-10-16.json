@@ -1,0 +1,26 @@
+{
+  "name": "Bobby McBride",
+  "age": 34,
+  "address": {
+    "street": "Ojualo Place",
+    "city": "Vesuvaz",
+    "state": "CT",
+    "zip": "32485"
+  },
+  "contact": {
+    "phone": "(561) 670-3419",
+    "servicePhone": "800284152"
+  },
+  "birthday": "1960-05-20T02:50:41.955Z",
+  "ip": "126.242.33.158",
+  "foo": "bar",
+  "profile": {
+    "about": "He isgunu ci nekkoc bo esoju gusgaduko ce ovovul dolopi olwu mabgub. Filro dak iw eztovva mo bicoho sepi esha dojcowsok rosca lihul ta noftubhi. Ovole ope vi do buw ne atu uno losbi wancamon kev no tolij sanvo fofhejlen mucies cuj eticuec.",
+    "bio": "Mulwe vekerec bekomkor puczuski usun waakeki abodu az ehaconef besboem oci hocbu kiv et fukes du. Akemouza dov pudsefbol re nemi fa da dibago foj detkom ciwze dec ahzakse. Tevah gutnaod ob famenari bahif wezebiolo tivroj pafiv ruoto zer nanujofe sakfid ciehiwuz giwovob ijepnib defnut sew. Wot erga afinmuh cutpaci tihub zadla kiwkule wafip ce hebum sicahca guvi izaro fijojizoj herojun. Emgagpe bunja ruvni fohfas iganug mi mi omumo ut zuricazus wajsame upaod awaducu wecuna. Ihe ab ce le ih oj pabem was erisep zi bavne kik mo lubsov owaet sonaztij. Waugugi res sedoju wiftagim wa li mofdi gedu zulu koowa sofhez jaha."
+  },
+  "apiKey": "c482e871b449a9e04bbcafc87903b57154efc927b604a563922db4bcb7d8a626",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
