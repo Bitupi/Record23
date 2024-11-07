@@ -1,0 +1,26 @@
+{
+  "name": "Jay Alvarez",
+  "age": 27,
+  "address": {
+    "street": "Awudu Circle",
+    "city": "Abeogiuhu",
+    "state": "MT",
+    "zip": "51551"
+  },
+  "contact": {
+    "phone": "(377) 300-4680",
+    "servicePhone": "800699756"
+  },
+  "birthday": "1990-05-01T12:26:36.564Z",
+  "ip": "155.123.254.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Kibote omowog dumjejo maz aru cilemo si orbe fuiteb feva lorjevlof duuja nim olnep ti obievjot wiebi ikeefki. Ku suhapi ocisedi alitusev ub hiborlik rom gogferar ziro feit todo vormiho un duhufjor mih wuji ukzuju. Soohiboz eb kelez le far fem ajruzat maefehi teteazu zucco azgo vibewna wer.",
+    "bio": "Win mokbiz duj nofem ef juctacug zu ilimanvol cabez onegu ko jiv edsovru jabo wopiv. Jedip ebecuswem fogofab tionaide adaziso gewacutet bowjios miigcu abnoknap gu so umnew mavem uki le gidob. Ed ci lut homkiduv ertukbon cizhokin nir ge tug uz dabe he. Wo jufupdip sonuhob mem zewjatza nuogwa ci tapu zebavpi oji net awuuso rota."
+  },
+  "apiKey": "ddf09923f232931e558fe3d001cb52947b12dab21be52e624d352c8abb33c3d1",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
