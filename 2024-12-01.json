@@ -1,0 +1,26 @@
+{
+  "name": "Emily Matthews",
+  "age": 53,
+  "address": {
+    "street": "Gepehe Street",
+    "city": "Omatazim",
+    "state": "OH",
+    "zip": "05304"
+  },
+  "contact": {
+    "phone": "(369) 942-4080",
+    "servicePhone": "800294999"
+  },
+  "birthday": "1968-07-08T03:30:18.754Z",
+  "ip": "238.56.33.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Jamu pek mojfun loc figonje ludbobwa uma soamiero cenenev kowa iwmoz ufrozaf. Gurzev paata ponihke ta ku moosboc akikew kuzwairi gejaf udve wo hihear gubraeza li iro. Lelbisbe otodur delem govlo lagiconu mutsi afikut ogpup uvefudet rapojoga cenavsot baci. Erafpi cigir su izun viz edjavbev ni hozhaw mo hafricu ce gavijcud pa dijevi picijfif cewgirsam. Rugufo udhumuz joijuvi igo zupen gon utifaza zav casik uvisazu hijdiksiz vuboreih.",
+    "bio": "Feg viomu deknif fa butudici vegzifsar sibci izkunge un borozbe silo afvo ilo di uzaguuzi mesni lilno zamuval. Nobbiz duv kaknel pagliv gup seurep nukocak rohat wiez how gozicac beku suka guco ihebehpa atidumil dadbosa. Ohi zogaze satpefi raljefobi fuhiv vu co com ig ihgi je vonrud."
+  },
+  "apiKey": "eff97f8af35e15cedb9fce390856e2653b20535850f315f9aad1a520035600e8",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
