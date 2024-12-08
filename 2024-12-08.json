@@ -1,0 +1,26 @@
+{
+  "name": "Henry Palmer",
+  "age": 40,
+  "address": {
+    "street": "Delhit Grove",
+    "city": "Gahori",
+    "state": "WI",
+    "zip": "97483"
+  },
+  "contact": {
+    "phone": "(843) 761-2814",
+    "servicePhone": "800835679"
+  },
+  "birthday": "1998-10-03T04:32:29.256Z",
+  "ip": "227.138.47.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Bevi wu foibuvit solabpu pardoftub ke buzlifbaf cijikjup igno ku ra richome. Ramcav ozoslit urece ne hin focku vujewa butipa odukepoj vicowet mu nu ruhag ihede. Peib tiztaha giikoso loj uwvollo eduvi tifpe norahe guj sepzabec nif hisorota uttoj pul ka al ekzecfuc. Vobbo pi mel mopeub dasrid iphe doko wekhe ehli ditgiale jir vav. Dogitze ap jevwugka afihew zaz ebgufzaz pol wibufaso eviun tulluzev fuh rebo dor apa kuttibev uskil.",
+    "bio": "Niakmam adifu gi vu motuwmis abiratu laz keze pubipo tosdi esu tufig afvu. Vaili si luhhuojo dedkacobo derciptow vimo ucuel hupzilu zugu re ko zucav nigep. Jesen nit lahbi fufdere sevrihlip jo ute tusir tajsegug hohko jim laimkez wajod. Idegi parazof sed facoh ur witroko ubfor hodotlur dorkaj dut vedofnul redole hegfez sobevkit lofajdu muva. Hep alizi nolutzo vehma daffu coobi filteica jagbe ocmaf zivla mazov osaewe ve."
+  },
+  "apiKey": "cad90e56ab70762b6e02f79792b555fd9dd61edf83df8196df6ce3f51eb44b35",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
