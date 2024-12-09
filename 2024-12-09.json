@@ -1,0 +1,26 @@
+{
+  "name": "Elsie Jones",
+  "age": 40,
+  "address": {
+    "street": "Ojubu Turnpike",
+    "city": "Nubtevim",
+    "state": "RI",
+    "zip": "55495"
+  },
+  "contact": {
+    "phone": "(447) 694-6392",
+    "servicePhone": "800335381"
+  },
+  "birthday": "1997-02-26T06:59:48.087Z",
+  "ip": "148.237.19.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Ip zueg ufivoloh en ricu jes ga de jaj jeja nenuljo wowi dahov vi. Lolvi amewuvun ihcivuk un gobdud faw bogvovaw je cicecku jehade jeagme fiije sufsan. Age ino luciktaj hungooh os fause du fef gusufaric uckuv pa egaru mafel.",
+    "bio": "Hofsi apoekler obcojja wufez cegkujgup fere mieccaw uwjih suj la jajalo silfoz iwamro ko ri eki sezul. Reldotu vofliuw kone owube vi lopov pavfaj umi bas anwofo jumzih keun rurofjip januru gim hilopu komu kotapfap. Senir suggecin kib palgo zunocba fimevkef jece imaoro ja jide hoh ca. Mewhizdi hopdor tec so rod zo ezuir cekim ziot tuf ju zaknu gamsiujo nusecho cos jihsaco ihu. Idonila aha recupga pomkup no gira wisebib ra geh ez mav jampehas rib rowfomha jabkah mihillev ebi. Ozigelbac muicakuj ku ubeon vi vognavek fievohe ki vos ti bete jisovhoc bes rekegeke lec. Mebe titcub lal ocno cezpiziz ke porufa ri fuleseja erreseg hanhuhi oziki."
+  },
+  "apiKey": "055865568b2024925e2a509192defe309f6b261b5a2701a650b56322b1ff6e96",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
