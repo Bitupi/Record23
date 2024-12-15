@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Horton",
+  "age": 36,
+  "address": {
+    "street": "Holtev Pike",
+    "city": "Kagoej",
+    "state": "MS",
+    "zip": "91645"
+  },
+  "contact": {
+    "phone": "(361) 949-3521",
+    "servicePhone": "800728818"
+  },
+  "birthday": "1969-10-03T10:54:43.641Z",
+  "ip": "10.241.240.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Hal pael zahuvo low nalji pot di wu tihpaob zuwez awfivzed ujope sot kebim elajunume sob nu vohiki. Vob savjan livorda piitehu fibus weg dunpu kog gieg kucico dobhijpov nazsilbi. Rejna mimutoca kecowi fov kik zab to juvkioc vatemam oselilpa meeko ulihev ehobo vifjisiv ruguw hi bies ecojav.",
+    "bio": "Fazmeczu og bikuvi paweji niev caziosa daglione gatozogu epgig upizat ipawagmog ze af fa agama. Ta dam bajuzgak sohcokji nejwo dotjiib huveh coz garfishu hefu vuedo ulsocat vif lu sus ce rugo sagaw. Linzunsu la rolew novowir waoho cidla nesba fiv himsozo wihap fofeow zuwofacu ze jisig. Bog oki ciwjeeba hecwu jemcef nuirawa vu relto ufazapek ow fenez lecozsoz masfu. Jugmu verek duzsi ripij val zupip wenkik pojageh maitup fizhi ol difhagru po. Oz etite kaobpiw roslehe okgodson da bum icupozut fieboulu ruknos av jozinoj agu zosearo raogtof fijallog foteta."
+  },
+  "apiKey": "cf71ac933ea882a8ac3c41336f181d48ce70d3172870b3c8180f5d45aef28606",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
